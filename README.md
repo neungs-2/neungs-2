@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-✍ I'm studying to become a Full Stack Web Developer
+✍ I'm studying to be a Full Stack Web Developer
 
 
 <!--
