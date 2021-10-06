@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ✍ I'm studying to be a Full Stack Web Developer
-![Anurag's GitHub Repo](https://github-readme-repo.vercel.app/api?username=neungs-2&show_icons=true&theme=gotham)
+![Anurag's GitHub Repo](https://github-readme-repos.vercel.app/api?username=neungs-2&show_icons=true&theme=gotham)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neungs-2&show_icons=true&theme=gotham)
 
 <!--
