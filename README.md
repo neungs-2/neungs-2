@@ -2,9 +2,6 @@
 
 ✍ I'm studying to be a Full Stack Web Developer
 
-<div class="github-card" data-github="neungs-2" data-width="400" data-height="" data-theme="default"></div>
-<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neungs-2&show_icons=true&theme=gotham)
 
 <!--
