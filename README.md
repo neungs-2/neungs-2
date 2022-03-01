@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-✍ I'm studying to be a Full Stack Web Developer
+✍ I'm studying to be a Backend Web Developer
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neungs-2&show_icons=true&theme=gotham)
 
