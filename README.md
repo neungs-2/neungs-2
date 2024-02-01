@@ -4,10 +4,11 @@
 
 <center>- 🧑🏻‍💻 I have been working as a backend developer for over 2 years.</center>
 <center>- 🏃 I want to be a developer who is getting better everyday.</center>
+
 ---
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
-<br>
+<br/>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/></a> &nbsp;
@@ -22,16 +23,13 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a> &nbsp;
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/></a>
 </p>
+
 ---
 
-<br>
+<br/>
 
-<div align="center">  
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=onedark"/></a>  -->
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neungs-2&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true width=38% />
-  </a>
+<div align="center">       
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neungs-2&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=neungs-2&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
   </a>
