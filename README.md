@@ -1,9 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 
-<center>### Hi there 👋</center>
-
-<center>- 🧑🏻‍💻 I have been working as a backend developer for over 2 years.</center>
-<center>- 🏃 I want to be a developer who is getting better everyday.</center>
+<b>Hi there 👋</b>
+<br/>
+- 🧑🏻‍💻 I have been working as a backend developer for over 2 years.
+- 🏃 I want to be a developer who is getting better everyday.
 
 ---
 
